@@ -1,5 +1,5 @@
 FROM node:16
-WORKDIR /app
+WORKDIR /react-resume-template
 COPY package*.json ./
 RUN npm ci
 COPY . .

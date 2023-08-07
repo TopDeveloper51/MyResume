@@ -23,16 +23,15 @@
         "content": [
             {
                 "id": 1,
-                "institution": "University of St. Gallen",
-                "course": "Bachelor of Science",
-                "startYear": "2009",
-                "endYear": "2012"
+                "institution": "Tokyo Institute of Technology",
+                "startYear": "2008",
+                "endYear": "2011"
             },
             {
                 "id": 2,
-                "institution": "University of London",
-                "course": "Bachelor of Science",
-                "startYear": "2013",
+                "institution": "University of Tokyo",
+                "course": "Bachelor of Computer Science",
+                "startYear": "2012",
                 "endYear": "2015"
             }
         ],
@@ -87,7 +86,7 @@
                 "company": "Axisbits GmbH",
                 "jobtitle": "Senior Web Developer",
                 "startYear": "2020",
-                "endYear": "present"
+                "endYear": "2022"
             }
         ],
         "configuration": {
@@ -236,55 +235,51 @@
         "content": [
             {
                 "id": 1,
-                "title": "Marketing"
+                "title": "Web Development and Design"
             },
             {
                 "id": 2,
-                "title": "Content Writing"
+                "title": "Mobile app development"
             },
             {
                 "id": 3,
-                "title": "Email Marketing"
+                "title": "Database Management"
             },
             {
                 "id": 4,
-                "title": "Internet Research"
+                "title": " API Development"
             },
             {
                 "id": 5,
-                "title": "Tutoring"
+                "title": "Server Configuration and Deployment"
             },
             {
                 "id": 6,
-                "title": "Web Design"
+                "title": "Version Control"
             },
             {
                 "id": 7,
-                "title": "Photography"
+                "title": "Testing and Debugging"
             },
             {
                 "id": 8,
-                "title": "Pinterest Virtual Assistant"
+                "title": "Continuous Integration and Deployment"
             },
             {
                 "id": 9,
-                "title": "Video Editing"
+                "title": "Performance Optimization"
             },
             {
                 "id": 10,
-                "title": "Data Entry"
+                "title": "Code Development and Review"
             },
             {
                 "id": 11,
-                "title": "Ebook Writing"
+                "title": "Project Planning and Management"
             },
             {
                 "id": 12,
-                "title": "Audio Transcription"
-            },
-            {
-                "id": 13,
-                "title": "Blog Posting"
+                "title": "Technical Leadership"
             }
         ],
         "configuration": {

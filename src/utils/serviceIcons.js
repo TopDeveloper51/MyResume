@@ -7,31 +7,31 @@ import { FaInternetExplorer, FaChalkboardTeacher, FaCameraRetro, FaPinterest, Fa
 export const serviceIcons = (service) => {
     const serviceID = service.toLowerCase();
     switch (serviceID) {
-        case 'marketing':
+        case 'web development and design':
             return <BiShoppingBag />;
-        case 'content writing':
+        case 'mobile app development':
             return <BiPencil />;
-        case 'email marketing':
+        case 'database management':
             return <AiOutlineMail />;
-        case 'internet research':
+        case 'api development':
             return <FaInternetExplorer />;
-        case 'tutoring':
+        case 'server configuration and deployment':
             return <FaChalkboardTeacher />;
-        case 'web design':
+        case 'version control':
             return <BsCodeSlash />;
-        case 'photography':
+        case 'testing and debugging':
             return <FaCameraRetro />;
-        case 'pinterest virtual assistant':
+        case 'continuous integration and deployment':
             return <FaPinterest />;
-        case 'video editing':
+        case 'performance optimization':
             return <FaVideo />;
-        case 'data entry':
+        case 'code development and review':
             return <BsClipboardData />;
-        case 'ebook writing':
+        case 'project planning and management':
             return <FaTabletAlt />;
-        case 'audio transcription':
+        case 'technical leadership':
             return <AiFillAudio />;
-        case 'blog posting':
-            return <FaRegNewspaper />;
+        // case 'blog posting':
+        //     return <FaRegNewspaper />;
     }
 }

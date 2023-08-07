@@ -7,32 +7,6 @@ import { FaChalkboardTeacher, FaProjectDiagram, FaRegFileCode, FaBox, FaCodeBran
 export const serviceIcons = (service) => {
     const serviceID = service.toLowerCase();
     switch (serviceID) {
-        // case 'web development and design':
-        //     return <BiShoppingBag />;
-        // case 'mobile app development':
-        //     return <BiPencil />;
-        // case 'database management':
-        //     return <AiOutlineMail />;
-        // case 'api development':
-        //     return <FaInternetExplorer />;
-        // case 'server configuration and deployment':
-        //     return <FaChalkboardTeacher />;
-        // case 'version control':
-        //     return <BsCodeSlash />;
-        // case 'testing and debugging':
-        //     return <FaBug />;
-        // case 'FaCheckDouble':
-        //     return <FaPinterest />;
-        // case 'performance optimization':
-        //     return <FaVideo />;
-        // case 'code development and review':
-        //     return <BsClipboardData />;
-        // case 'project planning and management':
-        //     return <FaTabletAlt />;
-        // case 'technical leadership':
-        //     return <AiFillAudio />;
-        // case 'blog posting':
-        //     return <FaRegNewspaper />;
         case 'web development and design':
             return <BsCodeSlash />;
         case 'mobile app development':

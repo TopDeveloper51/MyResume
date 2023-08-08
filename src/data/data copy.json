@@ -154,12 +154,12 @@
                 "projectName": "E-Commerce App",
                 "projectDesc": "A Simple E-commerce application",
                 "tags": [
-                    "Shopify",
+                    "React Native",
                     "Firebase"
                 ],
                 "code": "https://github.com/hhhrrrttt222111/developer-portfolio",
-                "demo": "https://sugarrushbysteph.com.au/",
-                "image": "/assets/png/sugarrushbysteph.png"
+                "demo": "https://github.com/hhhrrrttt222111/developer-portfolio",
+                "image": "/assets/svg/projects/five.svg"
             },
             {
                 "id": 6,
@@ -383,6 +383,17 @@
         "sheetAPI": ""
     },
     "socialsData": {
-        "github": "https://github.com/TopDeveloper51"
+        "github": "https://github.com/TopDeveloper51",
+        "facebook": "https://www.facebook.com/",
+        "linkedIn": "https://www.linkedin.com/in",
+        "instagram": "https://www.instagram.com/",
+        "codepen": "https://codepen.io/",
+        "twitter": "https://twitter.com/",
+        "reddit": "https://www.reddit.com/user/",
+        "blogger": "https://www.blogger.com/",
+        "medium": "https://medium.com/@",
+        "stackOverflow": "https://stackoverflow.com/users/",
+        "gitlab": "https://gitlab.com/",
+        "youtube": "https://youtube.com/"
     }
 }

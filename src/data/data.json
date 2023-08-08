@@ -1,8 +1,8 @@
 {
     "headerData": {
         "name": "Hiroshi Komiyama",
-        "title": "WEB & BLOCKCHAIN DEVELOPER",
-        "desciption": "There wasn't a bird in the sky, but that was not what caught his attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. He knew what was coming and he hoped he was prepared. ",
+        "title": "WEB & MOBILE DEVELOPER",
+        "desciption": "My biggest motivation? Just to keep challenging myself. I see life almost like one long University education that I never had — every day I’m learning something new.",
         "image": "/assets/avatar/avatar.png",
         "defaultAvatar": "/assets/avatar/default.png",
         "resumePdf": "/assets/pdf/resume.pdf",
@@ -12,7 +12,7 @@
     },
     "aboutData": {
         "title": "Who I am",
-        "description1": "My name's Hiroshi. I'm a web and blockchain developer based in basel, Japan.",
+        "description1": "My name's Hiroshi. I'm a web and mobile developer based in Osaka, Japan.",
         "description2": "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at Python and Django. I love to learn and explore new areas.",
         "image": 1,
         "configuration": {
@@ -24,6 +24,7 @@
             {
                 "id": 1,
                 "institution": "Tokyo Institute of Technology",
+                "course": "Bachelor of Computer Engineering",
                 "startYear": "2008",
                 "endYear": "2011"
             },
@@ -70,7 +71,7 @@
             {
                 "id": 2,
                 "company": "UBITUS INC",
-                "jobtitle": "Blockchain Developer",
+                "jobtitle": "Web and Blockchain Developer",
                 "startYear": "2017",
                 "endYear": "2019"
             },
@@ -97,41 +98,44 @@
         "content": [
             {
                 "id": 1,
-                "projectName": "Employee Management",
-                "projectDesc": "This project aims to build an employee management system that consolidates all information of a company",
+                "projectName": "CRMgrow",
+                "projectDesc": "This project aims to build an customer relationship management system with marketing automations including email, text, trackable video marketing, scheduling",
                 "tags": [
-                    "React",
-                    "CSS",
-                    "Material Ui"
+                    "Angular 10",
+                    "Material Ui",
+                    "Express.js",
+                    "MongoDB"
                 ],
                 "code": "https://github.com/hhhrrrttt222111/developer-portfolio",
-                "demo": "https://github.com/hhhrrrttt222111/developer-portfolio",
-                "image": "/assets/svg/projects/one.svg"
+                "demo": "https://crmgrow.com/",
+                "image": "/assets/png/port1.png"
             },
             {
                 "id": 2,
-                "projectName": "Railway Tracking",
-                "projectDesc": "This project is a railway tracking system that allows users to obtain relevant information about train timing.",
+                "projectName": "MyManager",
+                "projectDesc": "This project aims to create a place to acquire leads, automate the workflow, manage contacts & video calls, transactions and more.",
                 "tags": [
-                    "Django",
-                    "Tailwind CSS"
+                    "React",
+                    "Node.js",
+                    "MongoDB"
                 ],
                 "code": "https://github.com/hhhrrrttt222111/developer-portfolio",
-                "demo": "https://github.com/hhhrrrttt222111/developer-portfolio",
-                "image": "/assets/svg/projects/two.svg"
+                "demo": "https://mymanager.com/",
+                "image": "/assets/png/Mymanager.png"
             },
             {
                 "id": 3,
-                "projectName": "Weather App",
-                "projectDesc": "Weather forecast systems and applications predict weather conditions based on multiple parameters.",
+                "projectName": "Blendjet",
+                "projectDesc": "This project aims to build an advertising website for the BlendJet 2 portable blender and make Storybook",
                 "tags": [
-                    "Django",
-                    "CSS",
-                    "Material Ui"
+                    "Vue",
+                    "Nuxt.js",
+                    "Storybook",
+                    "pReact"
                 ],
                 "code": "https://github.com/hhhrrrttt222111/developer-portfolio",
-                "demo": "https://github.com/hhhrrrttt222111/developer-portfolio",
-                "image": "/assets/svg/projects/three.svg"
+                "demo": "https://blendjet.com/",
+                "image": "/assets/png/blendjet.png"
             },
             {
                 "id": 4,
@@ -195,18 +199,18 @@
             }
         ],
         "configuration": {
-            "showDemo": false,
+            "showDemo": true,
             "showCode": false
         }
     },
     "achievementData": {
-        "bio": "Putting quantified achievements on a resume is great, but I just don’t work with hard numbers. I have no data to support the quality of my work. If you have lots of relevant experience, the heading statement of your resume will be a summary.",
+        "bio": "Oversee 15+ web development projects for a global e-commerce company, manage a large-scale redesign project for the website, improve page speed by 15%, and incorporate user-centered design principles to increase average time on page from 52 seconds to one minute and twenty seconds",
         "achievements": [
             {
                 "id": 1,
                 "title": "Google Cloud certification",
                 "details": "Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.",
-                "date": "Aug 20, 2019",
+                "date": "Aug 20, 2016",
                 "field": "Automation",
                 "image": "https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80"
             },
@@ -214,7 +218,7 @@
                 "id": 2,
                 "title": "AWS Certification",
                 "details": "Validate technical skills and cloud expertise to grow your career and business.",
-                "date": "Aug 20, 2019",
+                "date": "Mar 4, 2018",
                 "field": "Automation",
                 "image": "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
             },
@@ -222,7 +226,7 @@
                 "id": 3,
                 "title": "Professional Data Engineer Certification",
                 "details": "Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.",
-                "date": "Aug 20, 2019",
+                "date": "May 24, 2019",
                 "field": "Automation",
                 "image": "https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
             }

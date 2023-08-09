@@ -63,15 +63,15 @@
         "content": [
             {
                 "id": 1,
-                "company": "DIGIS",
+                "company": "ITM HOUSE",
                 "jobtitle": "JUNIOR FRONTEND & REACT DEVELOPER",
                 "startYear": "2016",
                 "endYear": "2017"
             },
             {
                 "id": 2,
-                "company": "UBITUS INC",
-                "jobtitle": "Web and Blockchain Developer",
+                "company": "NOVISMART TECH.",
+                "jobtitle": "Web Developer",
                 "startYear": "2017",
                 "endYear": "2019"
             },
@@ -84,8 +84,8 @@
             },
             {
                 "id": 4,
-                "company": "Axisbits GmbH",
-                "jobtitle": "Senior Web Developer",
+                "company": "CodeEpsilon",
+                "jobtitle": "Senior Full Stack Developer",
                 "startYear": "2020",
                 "endYear": "2022"
             }
